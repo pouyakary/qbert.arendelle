@@ -1,0 +1,86 @@
+// Version 3 with responsitive
+// first spacings.
+
+ /* 
+  * Copyright 2014 Pouya Kary
+  * This sketch is a nice Q-Bert for
+  * celebration of the first version
+  * of Arendelle the Q-Bert 
+  *
+  */
+
+
+
+// Title 
+   'The Original Q-Bert'
+
+// First Spacings 
+   [ #i / 2 , r ] [ #j / 2 , d ]
+   [ 17 , l ] [ 7 , u ] 
+
+// Line #1
+   nn [ 8 , r ] [ 8 , rp ]
+
+// Line #2 
+   d n [ 5 , r ] [ 10 , lp ] nnn [ 6 , lp ]
+
+// Line #3 
+   d lll n [ 4 , rp ] nnn [ 2 , rp ] n
+   [ 2 , rp ] n [ 4 , rp ] nnn [ 2 , rp ] n
+   [ 4 , rp ]
+
+// Line #4 
+   d [ 3 , l ] nnn [ 2 , lp ] [ 4 , l ] 
+   [ 2 , lp ] nnn [ 4 , lp ] n [ 2 , lp ]
+
+// Line #5 
+   lll d [ 6 , rp ] nnn [ 2 , rp ] n
+   [ 2 , rp ] [ 4 , r ] [ 2 , rp ] nn
+   [ 4 , r ] [ 2 , rp]
+
+// Line #6 
+   d [ 5 , r ] [ 4 , lp ] n [ 8 , lp ]
+   n [ 4 , lp ] nnn [ 6 , lp ] n [ 4 , lp ]
+
+// Line #7 
+   d p [ 5 , rp ] nnn [ 20 , rp ] nnn
+   [ 2 , rp ] 
+
+// Line #8 
+   d [ 3 , r ] [ 2 , lp ] n [ 4 , lp ]
+   n [ 4 , lp ] [ 4 , lplp nnn lplp n ]
+   [ 4 , lp ]
+
+// Line #9 
+   d r [ 10 , rp ] nnn [ 2 , rp ] n 
+   [ 4 , rp ] rr [ 4 , rp ] [ 4 , r ] 
+   nnn [ 2 , rp ]
+
+// Line #10
+   dn plp [ 4 , l ] [ 2 , lp ] [ 6 , l ]
+   [ 12 , lp ]
+
+// Line #11 
+   d r [ 10 , rp ] [ 8 , r ] [ 4 , rp ]
+
+// Line #12
+   d [ 11 , l ] [ 2 , lp ] [ 6 , l ]
+   [ 2 , lp ]
+
+// Line #13
+   dprp [ 6 , r ] [ 2 , rp ]
+
+// Line #14
+   dplp [ 6 , l ] [ 2 , lp ]
+
+// Line #15
+   d nnn lll [ 6 , rp ] [ 4 , r ] n [ 2 , rp ]
+   nnn [ 4 , rp ]
+
+// Line #16
+   d [ 5 , r ] nnn [ 2 , lp ] n [ 2 , lp ] n 
+   [ 2 , lp ] [ 4 , l ] nn [ 4 , lp ] n
+   [ 2 , lp ] n [ 2 , lp ]
+
+
+
