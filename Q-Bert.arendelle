@@ -1,15 +1,12 @@
 // Version 3 with responsitive
 // first spacings.
 
- /* 
-  * Copyright 2014 Pouya Kary
-  * This sketch is a nice Q-Bert for
-  * celebration of the first version
-  * of Arendelle the Q-Bert 
-  *
-  */
-
-
+// 
+// Copyright 2014 Pouya Kary
+// This sketch is a nice Q-Bert for
+// celebration of the first version
+// of Arendelle the Q-Bert 
+//
 
 // Title 
    'The Original Q-Bert'
@@ -82,5 +79,4 @@
    [ 2 , lp ] [ 4 , l ] nn [ 4 , lp ] n
    [ 2 , lp ] n [ 2 , lp ]
 
-
-
+// done
